@@ -1,0 +1,36 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MVC",
+            "request": "launch",
+            "mainClass": "MVC",
+            "projectName": "Assignment 2 Brian_58d5d73c",
+            "vmArgs": "--module-path \"/Users/briantran396/Documents/IPR002/javafx-sdk-24.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "LibraryMenuPane",
+            "request": "launch",
+            "mainClass": "LibraryMenuPane",
+            "projectName": "Assignment 2 Brian_58d5d73c",
+            "vmArgs": "--module-path \"/Users/briantran396/Documents/IPR002/javafx-sdk-24.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Assignment 2 Brian_58d5d73c",
+            "vmArgs": "--module-path \"/Users/briantran396/Documents/IPR002/javafx-sdk-24.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Assignment 2 Brian_58d5d73c",
+            "vmArgs": "--module-path \"/Users/briantran396/Documents/IPR002/javafx-sdk-24.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}

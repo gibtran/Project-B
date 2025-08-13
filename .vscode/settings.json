@@ -1,0 +1,18 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/briantran396/Documents/IPR002/javafx-sdk-24.0.2/lib/javafx-swt.jar",
+        "/Users/briantran396/Documents/IPR002/javafx-sdk-24.0.2/lib/javafx.base.jar",
+        "/Users/briantran396/Documents/IPR002/javafx-sdk-24.0.2/lib/javafx.controls.jar",
+        "/Users/briantran396/Documents/IPR002/javafx-sdk-24.0.2/lib/javafx.fxml.jar",
+        "/Users/briantran396/Documents/IPR002/javafx-sdk-24.0.2/lib/javafx.graphics.jar",
+        "/Users/briantran396/Documents/IPR002/javafx-sdk-24.0.2/lib/javafx.media.jar",
+        "/Users/briantran396/Documents/IPR002/javafx-sdk-24.0.2/lib/javafx.swing.jar",
+        "/Users/briantran396/Documents/IPR002/javafx-sdk-24.0.2/lib/javafx.web.jar",
+        "/Users/briantran396/Documents/IPR002/javafx-sdk-24.0.2/lib/jdk.jsobject.jar",
+        "/Users/briantran396/Documents/IPR002/javafx-sdk-24.0.2/lib/jfx.incubator.input.jar",
+        "/Users/briantran396/Documents/IPR002/javafx-sdk-24.0.2/lib/jfx.incubator.richtext.jar"
+    ]
+}
