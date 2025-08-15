@@ -301,29 +301,3 @@ public class App {
     }
 
 }
-
-class Booklist {
-    static Book[] list = {
-            new PrintBook("White Nights", "Fyodor Dostoevsky", Genre.POETRY, 112, CoverType.PAPERBACK),
-            new DigitalBook("The Green Mile", "Stephen King", Genre.FICTION, 400, Format.EPUB),
-            new PrintBook("The Hobbit", "J.R.R. Tolkien", Genre.FANTASY, 310, CoverType.HARDCOVER),
-            new DigitalBook("Neuromancer", "William Gibson", Genre.SCIENCE_FICTION, 271, Format.AZW),
-            new PrintBook("Pride and Prejudice", "Jane Austen", Genre.ROMANCE, 279, CoverType.LEATHER_BOUND),
-            new DigitalBook("The Martian", "Andy Weir", Genre.SCIENCE_FICTION, 369, Format.DJVU),
-            new PrintBook("The Da Vinci Code", "Dan Brown", Genre.MYSTERY, 454, CoverType.GRAPHIC_NOVEL),
-            new DigitalBook("Leaves of Grass", "Walt Whitman", Genre.POETRY, 145, Format.TXT),
-            new PrintBook("Educated", "Tara Westover", Genre.NON_FICTION, 334, CoverType.SPIRAL_BOUND),
-            new DigitalBook("The Silent Patient", "Alex Michaelides", Genre.MYSTERY, 325, Format.HTML),
-            new PrintBook("Jane Eyre", "Charlotte Brontë", Genre.ROMANCE, 500, CoverType.MAGAZINE),
-            new DigitalBook("The Subtle Art of Not Giving a F*ck", "Mark Manson", Genre.NON_FICTION, 224, Format.DOCX),
-            new PrintBook("The Great Gatsby", "F. Scott Fitzgerald", Genre.FICTION, 180, CoverType.HARDCOVER),
-            new DigitalBook("A Brief History of Time", "Stephen Hawking", Genre.NON_FICTION, 212, Format.PDF),
-            new PrintBook("Dracula", "Bram Stoker", Genre.FANTASY, 418, CoverType.LEATHER_BOUND),
-            new DigitalBook("The Alchemist", "Paulo Coelho", Genre.FICTION, 197, Format.EPUB),
-            new PrintBook("Wuthering Heights", "Emily Brontë", Genre.ROMANCE, 416, CoverType.GRAPHIC_NOVEL),
-            new DigitalBook("The Raven", "Edgar Allan Poe", Genre.POETRY, 64, Format.TXT),
-            new PrintBook("The Catcher in the Rye", "J.D. Salinger", Genre.FICTION, 277, CoverType.SPIRAL_BOUND),
-            new DigitalBook("Dune", "Frank Herbert", Genre.SCIENCE_FICTION, 412, Format.AZW),
-            new PrintBook("The Idiot", "Fyodor Dostoevsky", Genre.POETRY, 650, CoverType.HARDCOVER)
-    };
-}
